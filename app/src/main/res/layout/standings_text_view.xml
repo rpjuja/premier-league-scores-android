@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="fill_horizontal"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/posTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="8"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:paddingTop="2sp"
+        android:paddingBottom="2sp" />
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="57"
+        android:textSize="18sp"
+        android:paddingTop="2sp"
+        android:paddingBottom="2sp" />
+
+    <TextView
+        android:id="@+id/gamesTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:paddingTop="2sp"
+        android:paddingBottom="2sp" />
+
+    <TextView
+        android:id="@+id/goalsTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="15"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:paddingTop="2sp"
+        android:paddingBottom="2sp" />
+
+    <TextView
+        android:id="@+id/pointsTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:paddingTop="2sp"
+        android:paddingBottom="2sp" />
+
+</LinearLayout>

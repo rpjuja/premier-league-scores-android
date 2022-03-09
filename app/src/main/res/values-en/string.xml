@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Premier League</string>
+    <string name="standings">Standings</string>
+    <string name="games">Games</string>
+    <string name="scoring">Top Scorers</string>
+    <string name="gameStatusScheduled">Scheduled and Live Games</string>
+    <string name="gameStatusFinished">Finished Games</string>
+    <string name="teamName">Team</string>
+    <string name="position">"#"</string>
+    <string name="gamesPlayed">Pl</string>
+    <string name="goalDiff">G</string>
+    <string name="points">Pts</string>
+    <string name="playerName">Player</string>
+    <string name="goals">G</string>
+    <string name="assists">A</string>
+    <string-array name="mainScreenSpinner">
+        <item>Games</item>
+        <item>Standings</item>
+        <item>Top Scorers</item>
+    </string-array>
+    <string-array name="standingsScreenSpinner">
+        <item>Standings</item>
+        <item>Games</item>
+        <item>Top Scorers</item>
+    </string-array>
+    <string-array name="scoringScreenSpinner">
+        <item>Top Scorers</item>
+        <item>Games</item>
+        <item>Standings</item>
+    </string-array>
+</resources>
