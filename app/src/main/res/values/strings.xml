@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Valioliiga</string>
+    <string name="standings">Sarjataulukko</string>
+    <string name="games">Ottelut</string>
+    <string name="scoring">Maalintekijät</string>
+    <string name="gameStatusScheduled">Tulevat ja Live Ottelut</string>
+    <string name="gameStatusFinished">Pelatut Ottelut</string>
+    <string name="teamName">Joukkue</string>
+    <string name="position">"#"</string>
+    <string name="gamesPlayed">O</string>
+    <string name="goalDiff">M</string>
+    <string name="points">P</string>
+    <string name="playerName">Pelaaja</string>
+    <string name="goals">M</string>
+    <string name="assists">S</string>
+    <string-array name="mainScreenSpinner">
+        <item>Ottelut</item>
+        <item>Sarjataulukko</item>
+        <item>Maalintekijät</item>
+    </string-array>
+    <string-array name="standingsScreenSpinner">
+        <item>Sarjataulukko</item>
+        <item>Ottelut</item>
+        <item>Maalintekijät</item>
+    </string-array>
+    <string-array name="scoringScreenSpinner">
+        <item>Maalintekijät</item>
+        <item>Ottelut</item>
+        <item>Sarjataulukko</item>
+    </string-array>
+</resources>
